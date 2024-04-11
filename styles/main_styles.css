@@ -331,7 +331,8 @@ section
 .logo_container
 {
 	display: inline-block;
-	padding-left: 50px;
+	padding-left: 2%;
+	width: 20%; 
 	width: 200px;
 }
 .logo span
